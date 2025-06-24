@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9acd5643361f9742add46f59e7d0151, type: 3}
+  m_Name: MapData
+  m_EditorClassIdentifier: 
+  mapID: 1
+  mapName: 
+  mapSize: {x: 10, y: 10}
+  layers:
+  - layerName: 
+    layerType: 3
+    sortingOrder: 0
+    tiles:
+    - position: {x: 0, y: 0}
+      tileID: 0
+      rotation: 0
+      flipX: 0
+      flipY: 0
+      isAnimated: 0
+      animationData:
+        animationType: 0
+        frameTileIDs: 
+        frameRate: 0
+        randomStartFrame: 0
+        playMode: 0
+  connectionInfo:
+    northMapID: -1
+    southMapID: -1
+    eastMapID: -1
+    westMapID: -1
+    northEastMapID: -1
+    northWestMapID: -1
+    southEastMapID: -1
+    southWestMapID: -1

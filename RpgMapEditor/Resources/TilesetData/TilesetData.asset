@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90236e5147717614b90b1db03205e37b, type: 3}
+  m_Name: TilesetData
+  m_EditorClassIdentifier: 
+  tilesetID: 0
+  tilesetName: 
+  tilesetType: 0
+  sourceTexture: {fileID: 2800000, guid: 72920c59f62401f4bb7a7f50beb6dd52, type: 3}
+  tileSize: {x: 48, y: 48}
+  textureGridSize: {x: 0, y: 0}
+  tileAssets: []
+  autoGenerateTiles: 1
+  isAutoTile: 1
+  autoTileType: 1
+  autoTileConfigs: []

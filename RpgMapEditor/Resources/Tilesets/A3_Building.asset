@@ -1,0 +1,5785 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9213556968291850753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_122
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -83454887, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-9091887526767889498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_1
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1730341032, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-8712905593794087765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_83
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1789786375, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-8611670155678750880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_85
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 893812306, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-8155366186365049335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_125
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -898208614, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-8134697084711882309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_17
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1567869994, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7758050520207664753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_77
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -579610220, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7749284641628839458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_52
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1225685644, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7712775609275435057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_108
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1873526257, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7603682723945238369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_75
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1124309580, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7555113638874895889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_21
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 96121167, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7475608836186549976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_124
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 54254785, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7425187493840682934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_127
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -544694233, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7376411000696281905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_23
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -139914488, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7252022492020902444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_112
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 744299400, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7222726899126166215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_60
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1384873465, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-7201715188771608237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_76
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1995478558, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-6891539398820428140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_87
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1722529329, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-6830890574244595270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_121
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1764625934, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-6779792474523967267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_6
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -502577053, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-6626211211422134157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_107
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 188854650, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-6540389657665967189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_55
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -953077850, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-6191701965020155061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_120
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -679521844, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-6132106557254884533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_45
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -509920403, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-5995572644846830557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_9
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 444254385, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-5963504460501178850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_4
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1383731279, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-5937804107564813874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_98
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 321054331, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-5813877264254749249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_93
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 294183339, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-5588894584082283800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_63
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1050786500, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-5518915419965198371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_46
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -984841313, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-5314076769546316825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_66
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1162368601, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-5219727976338242498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_67
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1873848302, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-4767654585203023441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_5
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -780466794, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-4741976401052649125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_56
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 5599183, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-4572223219141840447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_57
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -2001850862, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-4444501825105447272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_81
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1997726679, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-4354894608505087840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_84
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1173165626, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-4263577700137240869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_113
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -563542802, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-4241794115977728642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_110
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 395678233, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-4238525464448540333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_50
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -535247645, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-4006329431761146045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_48
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1868353672, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3942490245381270869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_36
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1628234824, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3792109344111601285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_91
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 2020008140, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3578283674489468503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_100
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -677177272, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3500465960485059127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_102
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1119039722, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3370498905976089586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_126
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1390167088, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3157122567108257160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_43
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 2101778585, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3131768420666272276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_119
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 2112045222, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3090710550201016508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_89
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 38309289, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3055252928262051079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_97
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -2004382132, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-3043775869539071963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_37
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -12060922, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-2921703089317622873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_68
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1302971261, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-2714584007290994864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_30
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -2091513452, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-2682379677655066491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_72
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 493675572, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-2400344480145065806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_59
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -500339436, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-2305473572311004522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_34
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 977752453, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-2166982935555156671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_111
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 567086818, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-1990610482148203410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_92
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 119091336, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-1873893834295039281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_104
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 2068644453, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-1788423779758684428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_78
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -977730968, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-1658429372029397511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_79
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -941698280, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-1621783760432881140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_7
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 614335388, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-1584697948695887988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_123
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1734736891, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-1176156939919718421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_103
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1834411586, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-1124048108841821966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_38
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 497736937, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-943947561646652299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_94
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -15429875, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-730555566436811174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_118
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -2071991115, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-563228309915245818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_18
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 390044542, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-414829127875213571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_80
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 618497305, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-315774204155578143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_11
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -2136882328, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-181517379203585625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_115
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -291531290, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &-129316001210096686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_49
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1543242004, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90236e5147717614b90b1db03205e37b, type: 3}
+  m_Name: A3_Building
+  m_EditorClassIdentifier: 
+  tilesetID: 3
+  tilesetName: A3_Building
+  tilesetType: 2
+  sourceTexture: {fileID: 2800000, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  tileSize: {x: 48, y: 48}
+  textureGridSize: {x: 16, y: 8}
+  tileAssets:
+  - tileID: 0
+    gridPosition: {x: 0, y: 7}
+    tile: {fileID: 7357885638535728381}
+    sprite: {fileID: -2077215473, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 1
+    gridPosition: {x: 1, y: 7}
+    tile: {fileID: -9091887526767889498}
+    sprite: {fileID: -1730341032, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 2
+    gridPosition: {x: 2, y: 7}
+    tile: {fileID: 235550858625294430}
+    sprite: {fileID: -847476270, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 3
+    gridPosition: {x: 3, y: 7}
+    tile: {fileID: 875915122384929338}
+    sprite: {fileID: 254332297, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 4
+    gridPosition: {x: 4, y: 7}
+    tile: {fileID: -5963504460501178850}
+    sprite: {fileID: 1383731279, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 5
+    gridPosition: {x: 5, y: 7}
+    tile: {fileID: -4767654585203023441}
+    sprite: {fileID: -780466794, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 6
+    gridPosition: {x: 6, y: 7}
+    tile: {fileID: -6779792474523967267}
+    sprite: {fileID: -502577053, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 7
+    gridPosition: {x: 7, y: 7}
+    tile: {fileID: -1621783760432881140}
+    sprite: {fileID: 614335388, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 8
+    gridPosition: {x: 8, y: 7}
+    tile: {fileID: 5416878474203409978}
+    sprite: {fileID: 559526366, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 9
+    gridPosition: {x: 9, y: 7}
+    tile: {fileID: -5995572644846830557}
+    sprite: {fileID: 444254385, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 10
+    gridPosition: {x: 10, y: 7}
+    tile: {fileID: 8144928664599445262}
+    sprite: {fileID: -2011009792, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 11
+    gridPosition: {x: 11, y: 7}
+    tile: {fileID: -315774204155578143}
+    sprite: {fileID: -2136882328, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 12
+    gridPosition: {x: 12, y: 7}
+    tile: {fileID: 5614054267196974703}
+    sprite: {fileID: 1258229886, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 13
+    gridPosition: {x: 13, y: 7}
+    tile: {fileID: 1192559511635924260}
+    sprite: {fileID: -670170312, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 14
+    gridPosition: {x: 14, y: 7}
+    tile: {fileID: 7728462936775476009}
+    sprite: {fileID: -926728290, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 15
+    gridPosition: {x: 15, y: 7}
+    tile: {fileID: 342173317630702743}
+    sprite: {fileID: -1022079912, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 16
+    gridPosition: {x: 0, y: 6}
+    tile: {fileID: 123695234319859888}
+    sprite: {fileID: 483138039, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 17
+    gridPosition: {x: 1, y: 6}
+    tile: {fileID: -8134697084711882309}
+    sprite: {fileID: 1567869994, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 18
+    gridPosition: {x: 2, y: 6}
+    tile: {fileID: -563228309915245818}
+    sprite: {fileID: 390044542, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 19
+    gridPosition: {x: 3, y: 6}
+    tile: {fileID: 5351291989130892265}
+    sprite: {fileID: 1106751709, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 20
+    gridPosition: {x: 4, y: 6}
+    tile: {fileID: 858107826343152926}
+    sprite: {fileID: 1427706019, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 21
+    gridPosition: {x: 5, y: 6}
+    tile: {fileID: -7555113638874895889}
+    sprite: {fileID: 96121167, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 22
+    gridPosition: {x: 6, y: 6}
+    tile: {fileID: 8536037105691016706}
+    sprite: {fileID: 1362952637, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 23
+    gridPosition: {x: 7, y: 6}
+    tile: {fileID: -7376411000696281905}
+    sprite: {fileID: -139914488, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 24
+    gridPosition: {x: 8, y: 6}
+    tile: {fileID: 968604109266599237}
+    sprite: {fileID: -1047459131, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 25
+    gridPosition: {x: 9, y: 6}
+    tile: {fileID: 6966273559657469139}
+    sprite: {fileID: 1598546792, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 26
+    gridPosition: {x: 10, y: 6}
+    tile: {fileID: 3688545257196742755}
+    sprite: {fileID: -1871047931, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 27
+    gridPosition: {x: 11, y: 6}
+    tile: {fileID: 7214040675968799648}
+    sprite: {fileID: -1725406357, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 28
+    gridPosition: {x: 12, y: 6}
+    tile: {fileID: 8415127315345790}
+    sprite: {fileID: 1867184751, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 29
+    gridPosition: {x: 13, y: 6}
+    tile: {fileID: 6003822433264264279}
+    sprite: {fileID: -157081558, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 30
+    gridPosition: {x: 14, y: 6}
+    tile: {fileID: -2714584007290994864}
+    sprite: {fileID: -2091513452, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 31
+    gridPosition: {x: 15, y: 6}
+    tile: {fileID: 1611098693234079854}
+    sprite: {fileID: 801456771, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 32
+    gridPosition: {x: 0, y: 5}
+    tile: {fileID: 4506199026261101798}
+    sprite: {fileID: 1252226276, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 33
+    gridPosition: {x: 1, y: 5}
+    tile: {fileID: 968560265416328284}
+    sprite: {fileID: 544288173, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 34
+    gridPosition: {x: 2, y: 5}
+    tile: {fileID: -2305473572311004522}
+    sprite: {fileID: 977752453, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 35
+    gridPosition: {x: 3, y: 5}
+    tile: {fileID: 489659659672568480}
+    sprite: {fileID: 247430460, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 36
+    gridPosition: {x: 4, y: 5}
+    tile: {fileID: -3942490245381270869}
+    sprite: {fileID: -1628234824, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 37
+    gridPosition: {x: 5, y: 5}
+    tile: {fileID: -3043775869539071963}
+    sprite: {fileID: -12060922, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 38
+    gridPosition: {x: 6, y: 5}
+    tile: {fileID: -1124048108841821966}
+    sprite: {fileID: 497736937, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 39
+    gridPosition: {x: 7, y: 5}
+    tile: {fileID: 2362339980130205385}
+    sprite: {fileID: -1495092116, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 40
+    gridPosition: {x: 8, y: 5}
+    tile: {fileID: 8797644153849489818}
+    sprite: {fileID: 1424281702, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 41
+    gridPosition: {x: 9, y: 5}
+    tile: {fileID: 7141553468795886693}
+    sprite: {fileID: -2087370540, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 42
+    gridPosition: {x: 10, y: 5}
+    tile: {fileID: 5482977094958300840}
+    sprite: {fileID: -1171418826, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 43
+    gridPosition: {x: 11, y: 5}
+    tile: {fileID: -3157122567108257160}
+    sprite: {fileID: 2101778585, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 44
+    gridPosition: {x: 12, y: 5}
+    tile: {fileID: 3480561424577161874}
+    sprite: {fileID: 790529435, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 45
+    gridPosition: {x: 13, y: 5}
+    tile: {fileID: -6132106557254884533}
+    sprite: {fileID: -509920403, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 46
+    gridPosition: {x: 14, y: 5}
+    tile: {fileID: -5518915419965198371}
+    sprite: {fileID: -984841313, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 47
+    gridPosition: {x: 15, y: 5}
+    tile: {fileID: 8692230163298218809}
+    sprite: {fileID: 881117407, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 48
+    gridPosition: {x: 0, y: 4}
+    tile: {fileID: -4006329431761146045}
+    sprite: {fileID: 1868353672, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 49
+    gridPosition: {x: 1, y: 4}
+    tile: {fileID: -129316001210096686}
+    sprite: {fileID: -1543242004, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 50
+    gridPosition: {x: 2, y: 4}
+    tile: {fileID: -4238525464448540333}
+    sprite: {fileID: -535247645, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 51
+    gridPosition: {x: 3, y: 4}
+    tile: {fileID: 1539654111683366186}
+    sprite: {fileID: 961495225, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 52
+    gridPosition: {x: 4, y: 4}
+    tile: {fileID: -7749284641628839458}
+    sprite: {fileID: 1225685644, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 53
+    gridPosition: {x: 5, y: 4}
+    tile: {fileID: 7059330395294669250}
+    sprite: {fileID: 2090120880, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 54
+    gridPosition: {x: 6, y: 4}
+    tile: {fileID: 8403504123672190929}
+    sprite: {fileID: 1971528912, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 55
+    gridPosition: {x: 7, y: 4}
+    tile: {fileID: -6540389657665967189}
+    sprite: {fileID: -953077850, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 56
+    gridPosition: {x: 8, y: 4}
+    tile: {fileID: -4741976401052649125}
+    sprite: {fileID: 5599183, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 57
+    gridPosition: {x: 9, y: 4}
+    tile: {fileID: -4572223219141840447}
+    sprite: {fileID: -2001850862, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 58
+    gridPosition: {x: 10, y: 4}
+    tile: {fileID: 1444809207908919660}
+    sprite: {fileID: 701522553, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 59
+    gridPosition: {x: 11, y: 4}
+    tile: {fileID: -2400344480145065806}
+    sprite: {fileID: -500339436, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 60
+    gridPosition: {x: 12, y: 4}
+    tile: {fileID: -7222726899126166215}
+    sprite: {fileID: 1384873465, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 61
+    gridPosition: {x: 13, y: 4}
+    tile: {fileID: 6888543792541321081}
+    sprite: {fileID: -1425775606, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 62
+    gridPosition: {x: 14, y: 4}
+    tile: {fileID: 4792734677686295871}
+    sprite: {fileID: -1171082809, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 63
+    gridPosition: {x: 15, y: 4}
+    tile: {fileID: -5588894584082283800}
+    sprite: {fileID: -1050786500, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 64
+    gridPosition: {x: 0, y: 3}
+    tile: {fileID: 184778995558761319}
+    sprite: {fileID: -838343817, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 65
+    gridPosition: {x: 1, y: 3}
+    tile: {fileID: 6786363695347431175}
+    sprite: {fileID: -736278643, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 66
+    gridPosition: {x: 2, y: 3}
+    tile: {fileID: -5314076769546316825}
+    sprite: {fileID: -1162368601, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 67
+    gridPosition: {x: 3, y: 3}
+    tile: {fileID: -5219727976338242498}
+    sprite: {fileID: 1873848302, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 68
+    gridPosition: {x: 4, y: 3}
+    tile: {fileID: -2921703089317622873}
+    sprite: {fileID: 1302971261, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 69
+    gridPosition: {x: 5, y: 3}
+    tile: {fileID: 2415726869266277774}
+    sprite: {fileID: -937372480, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 70
+    gridPosition: {x: 6, y: 3}
+    tile: {fileID: 205839025215481013}
+    sprite: {fileID: -203082094, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 71
+    gridPosition: {x: 7, y: 3}
+    tile: {fileID: 4215855522210411202}
+    sprite: {fileID: 1107563816, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 72
+    gridPosition: {x: 8, y: 3}
+    tile: {fileID: -2682379677655066491}
+    sprite: {fileID: 493675572, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 73
+    gridPosition: {x: 9, y: 3}
+    tile: {fileID: 3952065067705967410}
+    sprite: {fileID: -123857720, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 74
+    gridPosition: {x: 10, y: 3}
+    tile: {fileID: 7212739136062952660}
+    sprite: {fileID: 1371469878, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 75
+    gridPosition: {x: 11, y: 3}
+    tile: {fileID: -7603682723945238369}
+    sprite: {fileID: 1124309580, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 76
+    gridPosition: {x: 12, y: 3}
+    tile: {fileID: -7201715188771608237}
+    sprite: {fileID: -1995478558, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 77
+    gridPosition: {x: 13, y: 3}
+    tile: {fileID: -7758050520207664753}
+    sprite: {fileID: -579610220, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 78
+    gridPosition: {x: 14, y: 3}
+    tile: {fileID: -1788423779758684428}
+    sprite: {fileID: -977730968, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 79
+    gridPosition: {x: 15, y: 3}
+    tile: {fileID: -1658429372029397511}
+    sprite: {fileID: -941698280, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 80
+    gridPosition: {x: 0, y: 2}
+    tile: {fileID: -414829127875213571}
+    sprite: {fileID: 618497305, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 81
+    gridPosition: {x: 1, y: 2}
+    tile: {fileID: -4444501825105447272}
+    sprite: {fileID: 1997726679, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 82
+    gridPosition: {x: 2, y: 2}
+    tile: {fileID: 8095791843402990883}
+    sprite: {fileID: -1735417555, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 83
+    gridPosition: {x: 3, y: 2}
+    tile: {fileID: -8712905593794087765}
+    sprite: {fileID: -1789786375, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 84
+    gridPosition: {x: 4, y: 2}
+    tile: {fileID: -4354894608505087840}
+    sprite: {fileID: 1173165626, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 85
+    gridPosition: {x: 5, y: 2}
+    tile: {fileID: -8611670155678750880}
+    sprite: {fileID: 893812306, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 86
+    gridPosition: {x: 6, y: 2}
+    tile: {fileID: 3999078924358264273}
+    sprite: {fileID: -1648870623, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 87
+    gridPosition: {x: 7, y: 2}
+    tile: {fileID: -6891539398820428140}
+    sprite: {fileID: 1722529329, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 88
+    gridPosition: {x: 8, y: 2}
+    tile: {fileID: 4582019184838130310}
+    sprite: {fileID: -817171861, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 89
+    gridPosition: {x: 9, y: 2}
+    tile: {fileID: -3090710550201016508}
+    sprite: {fileID: 38309289, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 90
+    gridPosition: {x: 10, y: 2}
+    tile: {fileID: 9061974396097004101}
+    sprite: {fileID: 1325522382, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 91
+    gridPosition: {x: 11, y: 2}
+    tile: {fileID: -3792109344111601285}
+    sprite: {fileID: 2020008140, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 92
+    gridPosition: {x: 12, y: 2}
+    tile: {fileID: -1990610482148203410}
+    sprite: {fileID: 119091336, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 93
+    gridPosition: {x: 13, y: 2}
+    tile: {fileID: -5813877264254749249}
+    sprite: {fileID: 294183339, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 94
+    gridPosition: {x: 14, y: 2}
+    tile: {fileID: -943947561646652299}
+    sprite: {fileID: -15429875, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 95
+    gridPosition: {x: 15, y: 2}
+    tile: {fileID: 8748660184939832414}
+    sprite: {fileID: 18319460, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 96
+    gridPosition: {x: 0, y: 1}
+    tile: {fileID: 7408967304125316387}
+    sprite: {fileID: -874030535, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 97
+    gridPosition: {x: 1, y: 1}
+    tile: {fileID: -3055252928262051079}
+    sprite: {fileID: -2004382132, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 98
+    gridPosition: {x: 2, y: 1}
+    tile: {fileID: -5937804107564813874}
+    sprite: {fileID: 321054331, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 99
+    gridPosition: {x: 3, y: 1}
+    tile: {fileID: 4511682684639769277}
+    sprite: {fileID: 2074531733, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 100
+    gridPosition: {x: 4, y: 1}
+    tile: {fileID: -3578283674489468503}
+    sprite: {fileID: -677177272, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 101
+    gridPosition: {x: 5, y: 1}
+    tile: {fileID: 4941013307486857300}
+    sprite: {fileID: -1126760001, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 102
+    gridPosition: {x: 6, y: 1}
+    tile: {fileID: -3500465960485059127}
+    sprite: {fileID: 1119039722, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 103
+    gridPosition: {x: 7, y: 1}
+    tile: {fileID: -1176156939919718421}
+    sprite: {fileID: -1834411586, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 104
+    gridPosition: {x: 8, y: 1}
+    tile: {fileID: -1873893834295039281}
+    sprite: {fileID: 2068644453, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 105
+    gridPosition: {x: 9, y: 1}
+    tile: {fileID: 8086668450063249048}
+    sprite: {fileID: -640354431, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 106
+    gridPosition: {x: 10, y: 1}
+    tile: {fileID: 6650435825015465720}
+    sprite: {fileID: -1769300730, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 107
+    gridPosition: {x: 11, y: 1}
+    tile: {fileID: -6626211211422134157}
+    sprite: {fileID: 188854650, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 108
+    gridPosition: {x: 12, y: 1}
+    tile: {fileID: -7712775609275435057}
+    sprite: {fileID: 1873526257, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 109
+    gridPosition: {x: 13, y: 1}
+    tile: {fileID: 7916068484609266450}
+    sprite: {fileID: -1095384131, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 110
+    gridPosition: {x: 14, y: 1}
+    tile: {fileID: -4241794115977728642}
+    sprite: {fileID: 395678233, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 111
+    gridPosition: {x: 15, y: 1}
+    tile: {fileID: -2166982935555156671}
+    sprite: {fileID: 567086818, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 112
+    gridPosition: {x: 0, y: 0}
+    tile: {fileID: -7252022492020902444}
+    sprite: {fileID: 744299400, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 113
+    gridPosition: {x: 1, y: 0}
+    tile: {fileID: -4263577700137240869}
+    sprite: {fileID: -563542802, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 114
+    gridPosition: {x: 2, y: 0}
+    tile: {fileID: 3244632725417602892}
+    sprite: {fileID: -1138726060, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 115
+    gridPosition: {x: 3, y: 0}
+    tile: {fileID: -181517379203585625}
+    sprite: {fileID: -291531290, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 116
+    gridPosition: {x: 4, y: 0}
+    tile: {fileID: 9029941498140169094}
+    sprite: {fileID: -840938947, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 117
+    gridPosition: {x: 5, y: 0}
+    tile: {fileID: 5520184062459309717}
+    sprite: {fileID: -251482278, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 118
+    gridPosition: {x: 6, y: 0}
+    tile: {fileID: -730555566436811174}
+    sprite: {fileID: -2071991115, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 119
+    gridPosition: {x: 7, y: 0}
+    tile: {fileID: -3131768420666272276}
+    sprite: {fileID: 2112045222, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 120
+    gridPosition: {x: 8, y: 0}
+    tile: {fileID: -6191701965020155061}
+    sprite: {fileID: -679521844, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 121
+    gridPosition: {x: 9, y: 0}
+    tile: {fileID: -6830890574244595270}
+    sprite: {fileID: -1764625934, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 122
+    gridPosition: {x: 10, y: 0}
+    tile: {fileID: -9213556968291850753}
+    sprite: {fileID: -83454887, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 123
+    gridPosition: {x: 11, y: 0}
+    tile: {fileID: -1584697948695887988}
+    sprite: {fileID: 1734736891, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 124
+    gridPosition: {x: 12, y: 0}
+    tile: {fileID: -7475608836186549976}
+    sprite: {fileID: 54254785, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 125
+    gridPosition: {x: 13, y: 0}
+    tile: {fileID: -8155366186365049335}
+    sprite: {fileID: -898208614, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 126
+    gridPosition: {x: 14, y: 0}
+    tile: {fileID: -3370498905976089586}
+    sprite: {fileID: 1390167088, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  - tileID: 127
+    gridPosition: {x: 15, y: 0}
+    tile: {fileID: -7425187493840682934}
+    sprite: {fileID: -544694233, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+    isAnimated: 0
+    animationPreset: {fileID: 0}
+    animationFrames: []
+    isPassable: 1
+    collisionType: 0
+    isEventTrigger: 0
+    customTag: 
+  autoGenerateTiles: 1
+  isAutoTile: 1
+  autoTileType: 0
+  autoTileConfigs: []
+--- !u!114 &8415127315345790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_28
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1867184751, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &123695234319859888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_16
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 483138039, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &184778995558761319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_64
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -838343817, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &205839025215481013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_70
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -203082094, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &235550858625294430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_2
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -847476270, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &342173317630702743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_15
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1022079912, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &489659659672568480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_35
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 247430460, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &858107826343152926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_20
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1427706019, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &875915122384929338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_3
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 254332297, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &968560265416328284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_33
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 544288173, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &968604109266599237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_24
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1047459131, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &1192559511635924260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_13
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -670170312, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &1444809207908919660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_58
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 701522553, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &1539654111683366186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_51
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 961495225, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &1611098693234079854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_31
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 801456771, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &2362339980130205385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_39
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1495092116, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &2415726869266277774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_69
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -937372480, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &3244632725417602892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_114
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1138726060, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &3480561424577161874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_44
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 790529435, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &3688545257196742755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_26
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1871047931, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &3952065067705967410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_73
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -123857720, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &3999078924358264273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_86
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1648870623, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &4215855522210411202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_71
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1107563816, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &4506199026261101798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_32
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1252226276, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &4511682684639769277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_99
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 2074531733, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &4582019184838130310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_88
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -817171861, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &4792734677686295871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_62
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1171082809, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &4941013307486857300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_101
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1126760001, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &5351291989130892265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_19
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1106751709, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &5416878474203409978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_8
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 559526366, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &5482977094958300840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_42
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1171418826, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &5520184062459309717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_117
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -251482278, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &5614054267196974703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_12
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1258229886, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &6003822433264264279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_29
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -157081558, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &6650435825015465720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_106
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1769300730, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &6786363695347431175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_65
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -736278643, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &6888543792541321081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_61
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1425775606, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &6966273559657469139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_25
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1598546792, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &7059330395294669250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_53
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 2090120880, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &7141553468795886693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_41
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -2087370540, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &7212739136062952660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_74
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1371469878, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &7214040675968799648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_27
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1725406357, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &7357885638535728381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_0
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -2077215473, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &7408967304125316387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_96
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -874030535, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &7728462936775476009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_14
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -926728290, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &7916068484609266450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_109
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1095384131, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &8086668450063249048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_105
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -640354431, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &8095791843402990883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_82
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -1735417555, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &8144928664599445262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_10
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -2011009792, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &8403504123672190929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_54
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1971528912, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &8536037105691016706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_22
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1362952637, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &8692230163298218809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_47
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 881117407, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &8748660184939832414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_95
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 18319460, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &8797644153849489818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_40
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1424281702, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &9029941498140169094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_116
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -840938947, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+--- !u!114 &9061974396097004101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: A3_Building_Tile_90
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1325522382, guid: 3461da39e0306834a8c929b2f1eadf74, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
