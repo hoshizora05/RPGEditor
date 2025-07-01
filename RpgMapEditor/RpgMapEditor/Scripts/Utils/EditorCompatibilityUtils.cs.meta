@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 414f45583879e6144bbf08c7265c71e4
+timeCreated: 1500048945
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25657
+  packageName: RPG Map Editor
+  packageVersion: 1.5.6
+  assetPath: Assets/CreativeSpore/RpgMapEditor/Scripts/Utils/EditorCompatibilityUtils.cs
+  uploadId: 398024
