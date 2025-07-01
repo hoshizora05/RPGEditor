@@ -124,18 +124,18 @@ namespace RPGMapSystem
             {
                 if (asset is Sprite sprite)
                 {
+                    int currentID = tileID++;   // ① 今回割り当てる ID を退避
                     var tileAsset = new TileAsset
                     {
-                        tileID = tileID++,
+                        tileID = currentID,
                         sprite = sprite,
                         tile = CreateTileFromSprite(sprite)
                     };
 
-                    // アニメーションタイルの判定
                     if (tilesetType == TilesetType.A1_Animation)
                     {
                         tileAsset.isAnimated = true;
-                        tileAsset.animationPreset = CreateAnimationPreset(tileID);
+                        tileAsset.animationPreset = CreateAnimationPreset(currentID); // ② off-by-one 修正
                     }
 
                     tileAssets.Add(tileAsset);

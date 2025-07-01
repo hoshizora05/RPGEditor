@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using RPGMapSystem;
 
-namespace RPGMapSystem.Editor
+namespace RPGSystem.Editor
 {
     /// <summary>
     /// タイルセットアセットを一括生成するエディタウィンドウ。

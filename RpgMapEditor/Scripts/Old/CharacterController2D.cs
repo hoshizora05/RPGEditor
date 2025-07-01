@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
+using RPGMapSystem;
 
-namespace RPGMapSystem
+namespace RPGSystem
 {
     /// <summary>
     /// RPGツクール風のグリッドベースキャラクターコントローラー

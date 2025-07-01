@@ -288,17 +288,34 @@ namespace RPGMapSystem
                 int frameIndex = animTile.animationPreset.GetFrameIndex(animTile.elapsedTime);
                 if (frameIndex != animTile.currentFrame)
                 {
-                    animTile.currentFrame = frameIndex;
                     var frame = animTile.animationPreset.Frames[frameIndex];
-                    var tilesetData = GetTilesetData(animTile.tilesetID);
-                    int columns = tilesetData.TextureGridSize.x;
-                    int frameTileID = animTile.baseTileID + frame.tileOffset.x + frame.tileOffset.y * columns;
+                    var tileset = GetTilesetData(animTile.tilesetID);
+                    int cols = tileset.TextureGridSize.x;
 
+                    // 1) baseTileID → シート座標へ
+                    int baseX = animTile.baseTileID % cols;
+                    int baseY = animTile.baseTileID / cols;
+
+                    // 2) ブロック左上を求める
+                    int blkW = 2;                       // A1 は共通して横2セル
+                    int blkH = 3;
+                    int originX = (baseX / blkW) * blkW;
+                    int originY = (baseY / blkH) * blkH;
+
+                    // 3) フレーム単位のオフセットを加算
+                    int frameX = originX + frame.tileOffset.x;
+                    int frameY = originY + frame.tileOffset.y;
+
+                    // 4) 1 次元 ID へ戻す
+                    int frameTileID = frameX + frameY * cols;
+
+                    // --- 描画 ---
                     var tile = GetTile(animTile.tilesetID, frameTileID);
                     if (tile != null)
+                    {
                         animTile.tilemap.SetTile(animTile.position, tile);
-
-                    animTile.tilemap.RefreshTile(animTile.position);
+                        animTile.tilemap.RefreshTile(animTile.position);
+                    }
                 }
             }
         }

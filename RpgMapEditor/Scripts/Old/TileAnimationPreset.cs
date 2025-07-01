@@ -79,14 +79,14 @@ namespace RPGMapSystem
             preset.playMode = AnimationPlayMode.Loop;
             preset.syncWithGlobalTime = true;
 
-            // 4 フレームの滝アニメーション — ブロック高さは 2 セル
-            const int blockSize = 2;
+            // --- 4-frame waterfall (横 2セル刻み) ---
+            const int blockW = 2;
             preset.frames = new List<AnimationFrame>
-            {
-                new AnimationFrame { tileOffset = new Vector2Int(0, 0 * blockSize), duration = 1f },
-                new AnimationFrame { tileOffset = new Vector2Int(0, 1 * blockSize), duration = 1f },
-                new AnimationFrame { tileOffset = new Vector2Int(0, 2 * blockSize), duration = 1f },
-                new AnimationFrame { tileOffset = new Vector2Int(0, 3 * blockSize), duration = 1f }
+{
+                new AnimationFrame { tileOffset = new Vector2Int(0 * blockW, 0), duration = 1f },
+                new AnimationFrame { tileOffset = new Vector2Int(1 * blockW, 0), duration = 1f },
+                new AnimationFrame { tileOffset = new Vector2Int(2 * blockW, 0), duration = 1f },
+                new AnimationFrame { tileOffset = new Vector2Int(3 * blockW, 0), duration = 1f },
             };
 
             return preset;

@@ -5,8 +5,9 @@ using UnityEngine.Tilemaps;
 using System.Reflection;
 using System.Linq;
 using System.Collections.Generic;
+using RPGMapSystem;
 
-namespace RPGMapSystem.Editor
+namespace RPGSystem.Editor
 {
     [CustomEditor(typeof(TilesetData))]
     public class TilesetDataEditor : UnityEditor.Editor
