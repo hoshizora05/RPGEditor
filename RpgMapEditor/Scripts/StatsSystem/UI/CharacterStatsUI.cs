@@ -93,7 +93,7 @@ namespace RPGStatsSystem.UI
                 targetCharacter = GetComponentInParent<CharacterStats>();
                 if (targetCharacter == null)
                 {
-                    targetCharacter = FindObjectOfType<CharacterStats>();
+                    targetCharacter = FindFirstObjectByType<CharacterStats>();
                 }
             }
         }

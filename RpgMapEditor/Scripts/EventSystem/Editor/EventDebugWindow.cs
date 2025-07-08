@@ -346,7 +346,7 @@ namespace RPGSystem.EventSystem.Editor
                 EditorGUILayout.Space(10);
                 EditorGUILayout.LabelField("All Events:", headerStyle);
 
-                var allEvents = FindObjectsOfType<EventObject>();
+                var allEvents = FindObjectsByType<EventObject>(FindObjectsSortMode.InstanceID);
                 foreach (var evt in allEvents)
                 {
                     if (!evt.IsRunning)

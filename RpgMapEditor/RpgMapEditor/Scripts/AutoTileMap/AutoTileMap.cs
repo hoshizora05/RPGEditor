@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.Serialization.Formatters.Binary;
@@ -22,6 +22,7 @@ namespace CreativeSpore.RpgMapEditor
 
         public const int k_emptyTileId = -1;
         public const int k_outofboundsTileId = -2;
+        public TileChunkPool TileChunkPool { get { return m_tileChunkPoolNode; } }
 
         public delegate void OnMapLoadedDelegate( AutoTileMap autoTileMap );
         /// <summary>
@@ -446,12 +447,24 @@ namespace CreativeSpore.RpgMapEditor
             }
             yield return null;
 		}
-		
+        /// <summary>
+        /// ScriptableObject から取得した AutoTileMapData を設定し、マップをロードします。
+        /// SeamlessLoader.CreateMapGameObject から呼び出されることを想定。
+        /// </summary>
+        /// <param name="mapData">ロード対象の AutoTileMapData</param>
+        public IEnumerator LoadMapData(AutoTileMapData mapData)
+        {
+            // マップデータを設定（変更検知で LoadMap が呼ばれるが、ここでは直接非同期ロードを行う）
+            this.MapData = mapData;
+            // 非同期ロードを実行
+            yield return StartCoroutine(LoadMapAsync());
+        }
+
         /// <summary>
         /// Save current map to MapData
         /// </summary>
         /// <returns></returns>
-		public bool SaveMap( int width = -1, int height = -1 )
+        public bool SaveMap( int width = -1, int height = -1 )
 		{
             bool isOk = false;
             if (IsLoading)
@@ -1102,7 +1115,7 @@ namespace CreativeSpore.RpgMapEditor
 			if( vPos.x >= 0 && vPos.y >= 0 )
 			{
                 int tile_x = (int)vPos.x / Tileset.TileWidth;
-                int tile_y = (int)vPos.y / Tileset.TileHeight;  // �� ������ TileWidth ���� TileHeight �ɏC�� :contentReference[oaicite:0]{index=0}
+                int tile_y = (int)vPos.y / Tileset.TileHeight;  // ← ここを TileWidth から TileHeight に修正 :contentReference[oaicite:0]{index=0}
                 Vector2 vTileOffset = new Vector2((int)vPos.x % Tileset.TileWidth, (int)vPos.y % Tileset.TileHeight);
 				for( int iLayer = MapLayers.Count - 1; iLayer >= 0; --iLayer )
 				{
@@ -1520,5 +1533,49 @@ namespace CreativeSpore.RpgMapEditor
                 yield return null;
             }
         }
-	}
+        /// <summary>
+        /// 指定したマップ座標とレイヤーにあるオートタイルの衝突タイプを取得します。
+        /// </summary>
+        /// <param name="tileX">マップ上のタイル X 座標</param>
+        /// <param name="tileY">マップ上のタイル Y 座標</param>
+        /// <param name="layerIndex">MapLayers のインデックス</param>
+        /// <returns>該当タイルの eTileCollisionType（存在しない場合は EMPTY）</returns>
+        public eTileCollisionType GetAutotileCollisionType(int tileX, int tileY, int layerIndex)
+        {
+            // 衝突判定が無効化されている場合は EMPTY
+            if (!IsCollisionEnabled)
+                return eTileCollisionType.EMPTY;
+
+            // 座標またはレイヤーが不正な場合は EMPTY
+            if (!IsValidAutoTilePos(tileX, tileY) || layerIndex < 0 || layerIndex >= MapLayers.Count)
+                return eTileCollisionType.EMPTY;
+
+            // ターゲットの AutoTile を取得
+            AutoTile autoTile = GetAutoTile(tileX, tileY, layerIndex);
+            if (autoTile == null || autoTile.Id < 0 || Tileset == null)
+                return eTileCollisionType.EMPTY;
+
+            // タイルID に対応する衝突タイプを返す
+            return Tileset.AutotileCollType[autoTile.Id];
+        }
+
+        /// <summary>
+        /// マップのタイルサイズ（横幅・高さ）を設定し、データを保存＆再読み込みします
+        /// </summary>
+        /// <param name="width">タイル単位の横幅</param>
+        /// <param name="height">タイル単位の高さ</param>
+        public void SetMapSize(int width, int height)
+        {
+            if (MapData != null && MapData.Data != null)
+            {
+                // データ上のマップサイズを更新
+                MapData.Data.TileMapWidth = width;
+                MapData.Data.TileMapHeight = height;
+                // 新サイズで保存（内部的に Data.SaveData(this, width, height) を呼び出し）
+                SaveMap(width, height);
+                // 再読込みして反映
+                LoadMap();
+            }
+        }
+    }
 }

@@ -7,7 +7,7 @@ namespace CreativeSpore.RpgMapEditor
     /// <summary>
     /// Manage a chunk of tiles in the 3D world
     /// </summary>
-	public class TileChunk : MonoBehaviour 
+	public partial  class TileChunk : MonoBehaviour 
 	{
         private static Material s_fogOfWarMaterial;
 		private Vector3[] m_vertices;

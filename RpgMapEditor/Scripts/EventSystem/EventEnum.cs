@@ -86,4 +86,15 @@ namespace RPGSystem.EventSystem
         Overlay,
         Event
     }
+
+    /// <summary>
+    /// カットシーンとイベントの実行モード
+    /// </summary>
+    public enum ExecutionMode
+    {
+        Auto,       // 自動決定
+        Command,    // 従来のコマンド実行
+        Timeline,   // Unity Timeline駆動
+        Hybrid      // コマンドとTimelineの混合
+    }
 }

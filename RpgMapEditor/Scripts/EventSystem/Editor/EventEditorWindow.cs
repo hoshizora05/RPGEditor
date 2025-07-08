@@ -95,7 +95,7 @@ namespace RPGSystem.EventSystem.Editor
             // イベントリスト
             eventListScrollPos = EditorGUILayout.BeginScrollView(eventListScrollPos);
 
-            EventObject[] events = FindObjectsOfType<EventObject>();
+            EventObject[] events = FindObjectsByType<EventObject>(FindObjectsSortMode.InstanceID);
 
             foreach (var evt in events)
             {
@@ -854,7 +854,7 @@ namespace RPGSystem.EventSystem.Editor
             EditorUtility.SetDirty(selectedEvent);
         }
 
-        private void SaveChanges()
+        public override void SaveChanges()
         {
             if (selectedEvent != null)
             {

@@ -55,6 +55,30 @@ namespace RPGSystem.EventSystem
         public bool AutoSetSelfSwitch => autoSetSelfSwitch;
         public string SelfSwitchName => selfSwitchName;
 
+        //public EventPage(string pageName, int priority, bool enabled, EventConditions conditions, EventTrigger trigger, EventPriority displayPriority, EventGraphic graphic, EventMoveType moveType, float moveSpeed, bool moveAnimation, List<EventCommandData> commands, bool autoSetSelfSwitch, string selfSwitchName, bool walkThrough, bool directionFix)
+        //{
+        //    this.pageName = pageName;
+        //    this.priority = priority;
+        //    this.enabled = enabled;
+        //    this.conditions = conditions;
+        //    this.trigger = trigger;
+        //    this.displayPriority = displayPriority;
+        //    this.graphic = graphic;
+        //    this.moveType = moveType;
+        //    this.moveSpeed = moveSpeed;
+        //    this.moveAnimation = moveAnimation;
+        //    this.commands = commands;
+        //    this.autoSetSelfSwitch = autoSetSelfSwitch;
+        //    this.selfSwitchName = selfSwitchName;
+        //    this.walkThrough = walkThrough;
+        //    this.directionFix = directionFix;
+        //}
+        public void SetEventPage(string pageName, int priority)
+        {
+            this.pageName = pageName;
+            this.priority = priority;
+        }
+
         public void SetEnable(bool value)
         {
             enabled = value;

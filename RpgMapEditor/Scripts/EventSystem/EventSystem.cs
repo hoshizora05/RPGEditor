@@ -8,7 +8,7 @@ namespace RPGSystem.EventSystem
     /// イベントシステムの中核となるシングルトンクラス
     /// グローバルなイベント管理、変数・スイッチの管理を行う
     /// </summary>
-    public class EventSystem : MonoBehaviour
+    public partial class EventSystem : MonoBehaviour
     {
         private static EventSystem instance;
         public static EventSystem Instance
@@ -78,6 +78,8 @@ namespace RPGSystem.EventSystem
         {
             // デフォルトの変数・スイッチを初期化
             InitializeDefaultValues();
+
+            InitializeCutsceneIntegration();
         }
 
         private void Update()

@@ -126,12 +126,12 @@ namespace RPGSystem.EventSystem.SaveLoad
                 }
             }
 
-            // 現在のマップ
-            MapTransitionSystem transitionSystem = MapTransitionSystem.Instance;
-            if (transitionSystem != null)
-            {
-                saveData.currentMapID = transitionSystem.GetCurrentMapID();
-            }
+            //// 現在のマップ
+            //MapTransitionSystem transitionSystem = MapTransitionSystem.Instance;
+            //if (transitionSystem != null)
+            //{
+            //    saveData.currentMapID = transitionSystem.GetCurrentMapID();
+            //}
 
             // マップごとのイベント状態
             saveData.mapEventStates = CollectMapEventStates();
@@ -147,7 +147,7 @@ namespace RPGSystem.EventSystem.SaveLoad
             var states = new Dictionary<int, MapEventState>();
 
             // 現在のマップのイベント状態を保存
-            EventObject[] events = FindObjectsOfType<EventObject>();
+            EventObject[] events = FindObjectsByType<EventObject>(FindObjectsSortMode.InstanceID);
 
             Dictionary<int, List<EventObjectState>> mapEvents = new Dictionary<int, List<EventObjectState>>();
 
@@ -251,12 +251,15 @@ namespace RPGSystem.EventSystem.SaveLoad
         /// </summary>
         private System.Collections.IEnumerator LoadSavedMapAndPlayer(GameSaveData saveData)
         {
-            // まずマップを遷移
-            MapTransitionSystem transitionSystem = MapTransitionSystem.Instance;
-            transitionSystem.TransitionToMap(saveData.currentMapID, saveData.playerPosition);
+            // todo;追加対応予定
+            //// まずマップを遷移
+            //MapTransitionSystem transitionSystem = MapTransitionSystem.Instance;
+            //transitionSystem.TransitionToMap(saveData.currentMapID, saveData.playerPosition);
 
-            // 遷移完了を待つ
-            yield return new WaitUntil(() => !transitionSystem.IsTransitioning());
+            //// 遷移完了を待つ
+            //yield return new WaitUntil(() => !transitionSystem.IsTransitioning());
+
+            yield return null;
 
             // プレイヤーの向きを復元
             GameObject player = GameObject.FindGameObjectWithTag("Player");
@@ -281,25 +284,25 @@ namespace RPGSystem.EventSystem.SaveLoad
         {
             if (mapEventStates == null) return;
 
-            // 現在のマップのイベント状態を復元
-            MapTransitionSystem transitionSystem = MapTransitionSystem.Instance;
-            int currentMapID = transitionSystem.GetCurrentMapID();
+            //// 現在のマップのイベント状態を復元
+            //MapTransitionSystem transitionSystem = MapTransitionSystem.Instance;
+            //int currentMapID = transitionSystem.GetCurrentMapID();
 
-            if (mapEventStates.TryGetValue(currentMapID, out MapEventState mapState))
-            {
-                EventObject[] events = FindObjectsOfType<EventObject>();
+            //if (mapEventStates.TryGetValue(currentMapID, out MapEventState mapState))
+            //{
+            //    EventObject[] events = FindObjectsByType<EventObject>(FindObjectsSortMode.InstanceID);
 
-                foreach (var eventState in mapState.eventStates)
-                {
-                    EventObject eventObj = System.Array.Find(events, e => e.EventID == eventState.eventID);
-                    if (eventObj != null)
-                    {
-                        eventObj.transform.position = eventState.position;
-                        eventObj.gameObject.SetActive(eventState.isVisible);
-                        // ページインデックスの復元などは実装が必要
-                    }
-                }
-            }
+            //    foreach (var eventState in mapState.eventStates)
+            //    {
+            //        EventObject eventObj = System.Array.Find(events, e => e.EventID == eventState.eventID);
+            //        if (eventObj != null)
+            //        {
+            //            eventObj.transform.position = eventState.position;
+            //            eventObj.gameObject.SetActive(eventState.isVisible);
+            //            // ページインデックスの復元などは実装が必要
+            //        }
+            //    }
+            //}
         }
 
         #endregion

@@ -163,10 +163,11 @@ namespace RPGSystem.EventSystem.Commands
                     // パーティ人数（パーティシステムが実装されたら）
                     return 1;
 
-                case GameDataType.MapID:
-                    // 現在のマップID
-                    var mapTransition = MapTransitionSystem.Instance;
-                    return mapTransition != null ? mapTransition.GetCurrentMapID() : 0;
+                // todo;追加対応予定
+                //case GameDataType.MapID:
+                //    // 現在のマップID
+                //    var mapTransition = MapTransitionSystem.Instance;
+                //    return mapTransition != null ? mapTransition.GetCurrentMapID() : 0;
 
                 default:
                     return 0;

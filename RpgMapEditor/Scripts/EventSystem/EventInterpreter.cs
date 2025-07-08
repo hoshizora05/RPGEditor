@@ -10,7 +10,7 @@ namespace RPGSystem.EventSystem
     /// イベントコマンドの実行エンジン
     /// コマンドリストを解釈して順次実行する
     /// </summary>
-    public class EventInterpreter : MonoBehaviour
+    public partial class EventInterpreter : MonoBehaviour
     {
         [Header("実行設定")]
         [SerializeField] private bool enableDebugLog = true;
@@ -54,7 +54,14 @@ namespace RPGSystem.EventSystem
             }
 
             // コマンドリストを構築
-            commands = BuildCommandList(commandDataList);
+            if (isCutsceneMode)
+            {
+                commands = BuildCommandListCutscene(commandDataList);
+            }
+            else
+            {
+                commands = BuildCommandList(commandDataList);
+            }
             currentIndex = 0;
             onComplete = onCompleteCallback;
             isRunning = true;
@@ -394,7 +401,7 @@ namespace RPGSystem.EventSystem
     /// <summary>
     /// 待機コマンド
     /// </summary>
-    public class WaitCommand : EventCommand
+    public partial class WaitCommand : EventCommand
     {
         public float WaitTime { get; set; }
 

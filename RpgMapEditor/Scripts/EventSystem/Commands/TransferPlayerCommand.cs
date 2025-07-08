@@ -68,21 +68,22 @@ namespace RPGSystem.EventSystem.Commands
             GameObject player = GameObject.FindGameObjectWithTag("Player");
             CharacterController2D playerController = player?.GetComponent<CharacterController2D>();
 
-            // 現在のマップIDを取得
-            MapTransitionSystem transitionSystem = MapTransitionSystem.Instance;
-            int currentMapID = transitionSystem.GetCurrentMapID();
+            // todo;追加対応予定
+            //// 現在のマップIDを取得
+            //MapTransitionSystem transitionSystem = MapTransitionSystem.Instance;
+            //int currentMapID = transitionSystem.GetCurrentMapID();
 
-            // 同じマップ内での移動か判定
-            if (mapID == currentMapID)
-            {
-                // 同じマップ内での瞬間移動
-                yield return TransferInSameMap(playerController, position);
-            }
-            else
-            {
-                // 異なるマップへの移動
-                yield return TransferToOtherMap(transitionSystem, mapID, position);
-            }
+            //// 同じマップ内での移動か判定
+            //if (mapID == currentMapID)
+            //{
+            //    // 同じマップ内での瞬間移動
+            //    yield return TransferInSameMap(playerController, position);
+            //}
+            //else
+            //{
+            //    // 異なるマップへの移動
+            //    yield return TransferToOtherMap(transitionSystem, mapID, position);
+            //}
 
             // 向きを設定
             if (!retainDirection && playerController != null)
@@ -92,6 +93,8 @@ namespace RPGSystem.EventSystem.Commands
 
             isExecuting = false;
             isComplete = true;
+
+            yield return null;
         }
 
         /// <summary>
@@ -117,17 +120,17 @@ namespace RPGSystem.EventSystem.Commands
             }
         }
 
-        /// <summary>
-        /// 別マップへの移動
-        /// </summary>
-        private IEnumerator TransferToOtherMap(MapTransitionSystem transitionSystem, int mapID, Vector2Int position)
-        {
-            // MapTransitionSystemに移動を委託
-            transitionSystem.TransitionToMap(mapID, position);
+        ///// <summary>
+        ///// 別マップへの移動
+        ///// </summary>
+        //private IEnumerator TransferToOtherMap(MapTransitionSystem transitionSystem, int mapID, Vector2Int position)
+        //{
+        //    // MapTransitionSystemに移動を委託
+        //    transitionSystem.TransitionToMap(mapID, position);
 
-            // 移動完了まで待機
-            yield return new WaitUntil(() => !transitionSystem.IsTransitioning());
-        }
+        //    // 移動完了まで待機
+        //    yield return new WaitUntil(() => !transitionSystem.IsTransitioning());
+        //}
 
         /// <summary>
         /// プレイヤーの向きを設定

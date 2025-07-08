@@ -8,7 +8,7 @@ namespace RPGSystem.EventSystem
     /// 個別のイベントオブジェクトを管理するコンポーネント
     /// マップ上に配置され、トリガー条件やイベントページの管理を行う
     /// </summary>
-    public class EventObject : MonoBehaviour
+    public partial class EventObject : MonoBehaviour
     {
         [Header("基本設定")]
         [SerializeField] private int eventID;
@@ -86,6 +86,8 @@ namespace RPGSystem.EventSystem
 
             // 初期ページを決定
             UpdateCurrentPage();
+
+            InitializeCutsceneIntegration();
         }
 
         private void Update()
@@ -492,6 +494,8 @@ namespace RPGSystem.EventSystem
                 transform.position + Vector3.up * 0.5f,
                 $"Event {eventID}: {eventName}\nTrigger: {currentTrigger}"
             );
+
+            CutscneneDrawGizmosSelected();
         }
 #endif
 

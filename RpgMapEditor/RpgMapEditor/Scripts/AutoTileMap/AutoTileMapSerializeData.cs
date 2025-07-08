@@ -12,7 +12,7 @@ namespace CreativeSpore.RpgMapEditor
     /// Map data containing all tiles and the size of the map
     /// </summary>
 	[System.Serializable, XmlRoot("AutoTileMap")]    
-	public class AutoTileMapSerializeData
+	public partial class AutoTileMapSerializeData
     {
         public const string k_version = "MV-1.0";
 

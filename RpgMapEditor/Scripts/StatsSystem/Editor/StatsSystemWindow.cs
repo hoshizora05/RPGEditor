@@ -77,7 +77,7 @@ namespace RPGStatsSystem.Editor
             EditorGUILayout.BeginHorizontal();
             if (GUILayout.Button("Find All Characters"))
             {
-                var characters = FindObjectsOfType<CharacterStats>();
+                var characters = FindObjectsByType<CharacterStats>(FindObjectsSortMode.InstanceID);
                 Debug.Log($"Found {characters.Length} characters in scene:");
                 foreach (var character in characters)
                 {

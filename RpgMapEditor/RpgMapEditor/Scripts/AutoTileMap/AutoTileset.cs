@@ -33,6 +33,10 @@ namespace CreativeSpore.RpgMapEditor
         /// Offset of AutoTileRects. In case of autotiles it will be an offset per each type of tile: animated, building, etc. For object tileset, it will be one offset
         /// </summary>
         public List<int> TilePartOffset;
+        /// <summary>
+        /// タイルタイプ（OBJECTS / NORMAL / ANIMATED など）
+        /// </summary>
+        public eTileType Type;
     }
 
     /// <summary>
@@ -228,34 +232,48 @@ namespace CreativeSpore.RpgMapEditor
                     if (w == 2 && h == 2 && TileWidth == 48 && TileHeight == 48)
                     {
                         AtlasSlots.Add(new AtlasSlot());
-                        AtlasSlots[0].SubTilesets.Add(new SubTilesetConf() { AtlasRec = new Rect(0, 0, TilesetSlotSize, TilesetSlotSize), HasAutotiles = true, Name = "A" });
+                        AtlasSlots[0].SubTilesets.Add(new SubTilesetConf()
+                        {
+                            AtlasRec = new Rect(0, 0, TilesetSlotSize, TilesetSlotSize),
+                            HasAutotiles = true,
+                            Name = "A",
+                            Type = eTileType.ANIMATED,   // オートタイル扱い
+                        });
                         AtlasSlots.Add(new AtlasSlot());
                         int halfSize = TilesetSlotSize / 2;
-                        AtlasSlots[1].SubTilesets = new List<SubTilesetConf>(){
-                            new SubTilesetConf(){ AtlasRec = new Rect(TilesetSlotSize, 0, halfSize, halfSize), HasAutotiles = false, Name = "B"  },
-                            new SubTilesetConf(){ AtlasRec = new Rect(TilesetSlotSize, halfSize, halfSize, halfSize), HasAutotiles = false, Name = "C"  },
-                            new SubTilesetConf(){ AtlasRec = new Rect(TilesetSlotSize+halfSize, 0, halfSize, halfSize), HasAutotiles = false, Name = "D"  },
-                            new SubTilesetConf(){ AtlasRec = new Rect(TilesetSlotSize+halfSize, halfSize, halfSize, halfSize), HasAutotiles = false, Name = "E"  },
+                        AtlasSlots[1].SubTilesets = new List<SubTilesetConf>()
+                        {
+                            new SubTilesetConf()
+                            {
+                                AtlasRec    = new Rect(TilesetSlotSize, 0, halfSize, halfSize),
+                                HasAutotiles = false,
+                                Name        = "B",
+                                Type        = eTileType.OBJECTS,   // オブジェクトタイル
+                            },
+                            new SubTilesetConf()
+                            {
+                                AtlasRec    = new Rect(TilesetSlotSize, halfSize, halfSize, halfSize),
+                                HasAutotiles = false,
+                                Name        = "C",
+                                Type        = eTileType.OBJECTS,
+                            },
+                            new SubTilesetConf()
+                            {
+                                AtlasRec    = new Rect(TilesetSlotSize + halfSize, 0, halfSize, halfSize),
+                                HasAutotiles = false,
+                                Name        = "D",
+                                Type        = eTileType.OBJECTS,
+                            },
+                            new SubTilesetConf()
+                            {
+                                AtlasRec    = new Rect(TilesetSlotSize + halfSize, halfSize, halfSize, halfSize),
+                                HasAutotiles = false,
+                                Name        = "E",
+                                Type        = eTileType.OBJECTS,
+                            },
                         };
                     }
                 }
-
-                if (AtlasSlots.Count > size)
-                {
-                    AtlasSlots.RemoveRange(size, AtlasSlots.Count - size);
-                }
-                else
-                {
-                    while (AtlasSlots.Count < size)
-                    {
-                        AtlasSlots.Add(new AtlasSlot());
-                    }
-                }
-
-            }
-            else
-            {
-                AtlasSlots = null;
             }
         }
 

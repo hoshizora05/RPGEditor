@@ -91,6 +91,16 @@ namespace RPGSystem.EventSystem.Commands
     }
 
     /// <summary>
+    /// プラグインコマンドのデータ構造
+    /// </summary>
+    [System.Serializable]
+    public class PluginCommandData
+    {
+        public string pluginType;
+        public string parameters;
+    }
+
+    /// <summary>
     /// イベントコマンドタイプ
     /// </summary>
     public enum EventCommandType
@@ -153,5 +163,26 @@ namespace RPGSystem.EventSystem.Commands
     {
         public abstract string Serialize();
         public abstract void Deserialize(string data);
+    }
+
+    /// <summary>
+    /// カメラ操作タイプ
+    /// </summary>
+    public enum CameraOperation
+    {
+        MoveTo,
+        LookAt,
+        Reset
+    }
+
+    /// <summary>
+    /// アクター操作タイプ
+    /// </summary>
+    public enum ActorOperation
+    {
+        Show,
+        Hide,
+        MoveTo,
+        PlayAnimation
     }
 }

@@ -166,8 +166,42 @@ namespace RPGSystem.EventSystem
                 case EventCommandType.Comment: return "Comment";
                 case EventCommandType.Label: return "Label";
                 case EventCommandType.Jump: return "Jump to Label";
+                case EventCommandType.Plugin: return "Plugin Command";
                 default: return type.ToString();
             }
+        }
+        /// <summary>
+        /// カットシーン対応コマンドかチェック
+        /// </summary>
+        public static bool IsCutsceneCommand(EventCommandType type)
+        {
+            return type == EventCommandType.Plugin;
+        }
+        /// <summary>
+        /// 実行モード別にコマンドをフィルタリング
+        /// </summary>
+        public static List<EventCommandData> FilterCommandsByMode(List<EventCommandData> commands, ExecutionMode mode)
+        {
+            var filtered = new List<EventCommandData>();
+
+            foreach (var command in commands)
+            {
+                bool includeCommand = mode switch
+                {
+                    ExecutionMode.Command => !IsCutsceneCommand(command.type),
+                    ExecutionMode.Timeline => IsCutsceneCommand(command.type),
+                    ExecutionMode.Hybrid => true,
+                    ExecutionMode.Auto => true,
+                    _ => true
+                };
+
+                if (includeCommand)
+                {
+                    filtered.Add(command);
+                }
+            }
+
+            return filtered;
         }
     }
 
